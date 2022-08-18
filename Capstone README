@@ -1,0 +1,42 @@
+
+# Top 10 Movies of the last Decade
+Looking at the most critically reviewed lists of Rotten Tomatoes and IMDB to verify the trend of directors, actors, and genres that drive us to the movies. Due to major differences among the two websites the top 10 of each year is much more so a top 16-18 to give ample data to scour.
+The data has been scraped using Python's beautiful soup and contains the following parameters:
+
+- Title
+- Audience Score
+- Critic Score
+- Director
+- Primary Actor
+- Genre
+- Rating
+- Runtime
+- Release Date
+- Quarter
+- Box Office
+
+
+
+## Data Questions
+
+1. Are critics biased toward a particular genre/rating?
+2. Over the course of the decade, are there directors/actors that tend to lead the charge in critically acclaimed films?
+3. There will be movies critics loved but audience hated, is there any correlation among these audience panned movies?
+4. Forecasting wise, what should a production company do to maximize ROI?
+## Motivation
+Perusing lists of top films always seems to leave Horror gems out of the list. I was looking to verify if there is a critical skew against some notable genres on the reviewed lists, as I feel Horror is underrepresented for both critics and audience alike.
+## Known Issues and Challenges
+Normalizing the duplicated data that was found on both IMDB and Rotten Tomatoes to avoid a film being listd twice; this involved fixing the titles to match both lists and average critic and audience scores among the duplicated titles.
+
+
+## Documentation
+
+[Rotten Tomatoes](https://rtv2-production-2-6.rottentomatoes.com/top/bestofrt/?year=2021)
+
+[IMDB](https://www.imdb.com/search/title/?title_type=feature&year=2021&sort=num_votes,desc)
+
+
+
+## Authors
+
+- [Martin Melgar](https://github.com/MartinMelgar)
