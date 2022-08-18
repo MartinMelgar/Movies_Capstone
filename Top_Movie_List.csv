@@ -1,0 +1,166 @@
+Title,Audience Score,Critic Score,Box Office,Rating,Genre,Main Star,Director,Release Date,Runtime,Year,Quarter
+12 Years a Slave,85.5,85.5,56685996.5,R ,History,                    Chiwetel Ejiofor,Steve McQueen,2013-10-18,134,2013,4
+1917,85.0,76.0,159213822.0,PG-13,War,                    George MacKay,Sam Mendes,2020-01-10,119,2020,1
+A Quiet Place,79.0,91.5,128212180.5,R ,Horror,                    Emily Blunt,John Krasinski,2018-04-06,90,2018,2
+Argo,83.5,79.0,136012751.5,R ,History,                    Ben Affleck,Ben Affleck,2012-10-12,120,2012,4
+Arrival,80.5,79.5,100523069.5,R ,Sci-fi,                    Amy Adams,Denis Villeneuve,2016-11-11,116,2016,4
+Avengers: Endgame,87.0,95.0,858386500.0,PG-13,Action,                    Robert Downey Jr.,Anthony Russo,2019-04-26,181,2019,2
+Black Panther,76.0,92.0,700313283.0,PG-13,Action,                    Chadwick Boseman,Ryan Coogler,2018-02-16,134,2018,1
+Captain America: Civil War,83.5,82.5,408092174.5,PG ,Action,                    Chris Evans,Anthony Russo,2016-05-06,146,2016,2
+Dunkirk,79.5,93.0,188870332.5,PG-13,War,                    Fionn Whitehead,Christopher Nolan,2017-07-21,107,2017,3
+Get Out,81.5,91.5,176098332.5,PG-13,Horror,                    Daniel Kaluuya,Jordan Peele,2017-02-24,104,2017,1
+Gravity,78.0,96.0,274096352.5,PG-13,Drama,                    Sandra Bullock,Alfonso Cuarón,2013-10-04,91,2013,4
+Guardians of the Galaxy,86.0,84.0,333709300.0,R ,Sci-fi,                    Chris Pratt,James Gunn,2014-08-01,121,2014,3
+Inside Out,85.5,96.0,179460855.5,R ,Kids & family,                    Amy Poehler,Pete Docter,2015-06-19,95,2015,2
+Knives Out,85.5,87.5,165381617.0,R ,Mystery,                    Daniel Craig,Rian Johnson,2019-11-27,130,2019,4
+La La Land,80.5,84.5,151100901.5,PG ,Musical,                    Ryan Gosling,Damien Chazelle,2016-12-25,128,2016,4
+Logan,85.5,85.5,226288534.0,PG ,Action,                    Hugh Jackman,James Mangold,2017-03-03,137,2017,1
+Mad Max: Fury Road,83.5,93.5,153854530.0,PG ,Action,                    Tom Hardy,George Miller,2015-05-15,120,2015,2
+Promising Young Woman,81.0,86.5,6430482.5,R ,Comedy,                    Carey Mulligan,Emerald Fennell,2020-12-25,113,2020,4
+Silver Linings Playbook,81.5,86.5,132096479.0,R ,Comedy,                    Bradley Cooper,David O. Russell,2012-11-21,122,2012,4
+Skyfall,82.0,79.0,304380138.5,PG-13,Action,                    Daniel Craig,Sam Mendes,2012-11-09,143,2012,4
+Soul,84.0,89.0,,R ,Kids & family,                    Jamie Foxx,Pete Docter,2020-12-25,100,2020,4
+Spider-Man: Into the Spider-Verse,88.5,83.0,190220655.0,R ,Kids & family,                    Shameik Moore,Bob Persichetti,2018-12-14,117,2018,4
+Spider-Man: No Way Home,90.5,82.0,804596738.5,PG-13,Action,                    Tom Holland,Jon Watts,2021-12-17,148,2021,4
+Spotlight,87.0,89.0,45027888.0,PG-13,Drama,                    Mark Ruffalo,Tom McCarthy,2015-11-20,128,2015,4
+Star Wars: Episode VII - The Force Awakens,81.5,86.5,529831112.5,PG-13,Sci-fi,                    Harrison Ford,J.J. Abrams,2015-12-18,136,2015,4
+The Avengers,85.5,80.0,623357910.0,PG-13,Action,                    Robert Downey Jr.,Joss Whedon,2012-05-04,143,2012,2
+The Dark Knight Rises,87.0,82.5,225074792.0,PG-13,Action,                    Christian Bale,Christopher Nolan,2012-07-20,165,2012,3
+The Grand Budapest Hotel,83.5,90.0,59200662.0,R ,Comedy,                    Ralph Fiennes,Wes Anderson,2014-03-07,99,2014,1
+The Invisible Man,79.5,84.0,67355000.0,PG ,Horror,                    Elisabeth Moss,Leigh Whannell,2020-02-28,124,2020,1
+The Irishman,82.0,84.0,,PG ,Crime,                    Robert De Niro,Martin Scorsese,2019-11-01,209,2019,4
+The Martian,85.5,85.5,228416831.5,R ,Sci-fi,                    Matt Damon,Ridley Scott,2015-10-02,142,2015,4
+Thor: Ragnarok,83.0,83.5,315029144.5,R ,Action,                    Chris Hemsworth,Taika Waititi,2017-11-03,130,2017,4
+Whiplash,89.5,91.0,13146000.0,R ,Drama,                    Miles Teller,Damien Chazelle,2014-10-10,106,2014,4
+Wonder Woman,78.5,84.5,412822586.0,R ,Action,                    Gal Gadot,Patty Jenkins,2017-06-02,141,2017,2
+Zootopia,86.0,82.0,341268248.0,R ,Kids & family,                    Ginnifer Goodwin,Byron Howard,2016-03-04,108,2016,1
+Django Unchained,84.0,81.0,162805434.0,R,Drama,Jamie Foxx,Quentin Tarantino,2012-12-25,165,2012,4
+The Hunger Games,72.0,68.0,408010692.0,PG-13,Action,Jennifer Lawrence,Gary Ross,2012-03-23,142,2012,1
+The Hobbit: An Unexpected Journey,78.0,81.0,303030651.0,PG-13,Adventure,Martin Freeman,Peter Jackson,2012-12-14,169,2012,4
+The Amazing Spider-Man,69.0,79.0,262030663.0,PG-13,Action,Andrew Garfield,Marc Webb,2012-07-03,136,2012,3
+Life of Pi,79.0,86.0,124987023.0,PG,Adventure,Suraj Sharma,Ang Lee,2012-11-21,127,2012,4
+The Wolf of Wall Street,82.0,75.0,116900694.0,R,Biography,Leonardo DiCaprio,Martin Scorsese,2013-12-25,180,2013,4
+Iron Man Three,71.0,62.0,409013994.0,PG-13,Action,Robert Downey Jr.,Shane Black,2013-05-03,130,2013,2
+Man of Steel,71.0,70.0,291045518.0,PG-13,Action,Henry Cavill,Zack Snyder,2013-06-14,143,2013,2
+Prisoners,81.0,96.0,61002302.0,R,Crime,Hugh Jackman,Denis Villeneuve,2013-09-20,153,2013,3
+Thor: The Dark World,68.0,63.0,206362140.0,PG-13,Action,Chris Hemsworth,Alan Taylor,2013-11-08,112,2013,4
+The Hunger Games: Catching Fire,75.0,66.0,424668047.0,PG-13,Action,Jennifer Lawrence,Francis Lawrence,2013-11-22,146,2013,4
+World War Z,70.0,75.0,202807711.0,PG-13,Action,Brad Pitt,Marc Forster,2013-06-21,116,2013,2
+Now You See Me,72.0,91.0,117723989.0,PG-13,Crime,Jesse Eisenberg,Louis Leterrier,2013-05-31,115,2013,2
+Interstellar,86.0,74.0,188020017.0,PG-13,Adventure,Matthew McConaughey,Christopher Nolan,2014-11-07,169,2014,4
+Gone Girl,81.0,79.0,167767189.0,R,Drama,Ben Affleck,David Fincher,2014-10-03,149,2014,4
+Captain America: The Winter Soldier,78.0,70.0,259766572.0,PG-13,Action,Chris Evans,Anthony Russo,2014-04-04,136,2014,2
+The Imitation Game,80.0,71.0,91125683.0,PG-13,Biography,Benedict Cumberbatch,Morten Tyldum,2014-12-25,114,2014,4
+X-Men: Days of Future Past,79.0,75.0,233921534.0,PG-13,Action,Patrick Stewart,Bryan Singer,2014-05-23,132,2014,2
+Edge of Tomorrow,79.0,71.0,100206256.0,PG-13,Action,Tom Cruise,Doug Liman,2014-06-06,113,2014,2
+Kingsman: The Secret Service,77.0,87.0,128261724.0,R,Action,Colin Firth,Matthew Vaughn,2015-02-13,129,2015,1
+Avengers: Age of Ultron,73.0,66.0,459005868.0,PG-13,Action,Robert Downey Jr.,Joss Whedon,2015-05-01,141,2015,2
+The Revenant,80.0,76.0,183637894.0,R,Action,Leonardo DiCaprio,Alejandro G. Iñárritu,2016-01-08,156,2016,1
+Ant-Man,73.0,64.0,180202163.0,PG-13,Action,Paul Rudd,Peyton Reed,2015-07-17,117,2015,3
+Jurassic World,69.0,68.0,653406625.0,PG-13,Action,Chris Pratt,Colin Trevorrow,2015-06-12,124,2015,2
+The Hateful Eight,78.0,93.0,54117416.0,R,Crime,Samuel L. Jackson,Quentin Tarantino,2015-12-30,168,2015,4
+Deadpool,80.0,65.0,363070709.0,R,Action,Ryan Reynolds,Tim Miller,2016-02-12,108,2016,1
+Doctor Strange,75.0,72.0,232641920.0,PG-13,Action,Benedict Cumberbatch,Scott Derrickson,2016-11-04,115,2016,4
+Batman v Superman: Dawn of Justice,64.0,81.0,330360194.0,PG-13,Action,Ben Affleck,Zack Snyder,2016-03-25,152,2016,1
+Suicide Squad,59.0,94.0,325100054.0,PG-13,Action,Will Smith,David Ayer,2016-08-05,123,2016,3
+Rogue One: A Star Wars Story,78.0,71.0,532177324.0,PG-13,Action,Felicity Jones,Gareth Edwards,2016-12-16,133,2016,4
+Hacksaw Ridge,81.0,62.0,67209615.0,R,Biography,Andrew Garfield,Mel Gibson,2016-11-04,139,2016,4
+Guardians of the Galaxy Vol. 2,76.0,67.0,389813101.0,PG-13,Action,Chris Pratt,James Gunn,2017-05-05,136,2017,2
+Spider-Man: Homecoming,74.0,73.0,334201140.0,PG-13,Action,Tom Holland,Jon Watts,2017-07-07,133,2017,3
+Star Wars: Episode VIII - The Last Jedi,69.0,84.0,620181382.0,PG-13,Action,Daisy Ridley,Rian Johnson,2017-12-15,152,2017,4
+Blade Runner 2049,80.0,81.0,92071675.0,R,Action,Harrison Ford,Denis Villeneuve,2017-10-06,164,2017,4
+It,73.0,69.0,328874981.0,R,Horror,Bill Skarsgård,Andy Muschietti,2017-09-08,135,2017,3
+Avengers: Infinity War,84.0,68.0,678815482.0,PG-13,Action,Robert Downey Jr.,Anthony Russo,2018-04-27,149,2018,2
+Deadpool 2,77.0,66.0,324591735.0,R,Action,Ryan Reynolds,David Leitch,2018-05-18,119,2018,2
+Bohemian Rhapsody,79.0,82.0,216668042.0,PG-13,Biography,Rami Malek,Bryan Singer,2018-11-02,134,2018,4
+Green Book,82.0,64.0,85080171.0,PG-13,Biography,Viggo Mortensen,Peter Farrelly,2018-11-16,130,2018,4
+Venom,66.0,70.0,213515506.0,PG-13,Action,Tom Hardy,Ruben Fleischer,2018-10-05,112,2018,4
+Aquaman,68.0,88.0,335104314.0,PG-13,Action,Jason Momoa,James Wan,2018-12-21,143,2018,4
+Ready Player One,74.0,62.0,137715350.0,PG-13,Action,Tye Sheridan,Steven Spielberg,2018-03-29,140,2018,1
+Joker,84.0,78.0,335477657.0,R,Crime,Joaquin Phoenix,Todd Phillips,2019-10-04,122,2019,4
+Parasite,85.0,83.0,53369749.0,R,Comedy,Song Kang-ho,Bong Joon Ho,2019-11-08,132,2019,4
+Once Upon a Time... In Hollywood,76.0,82.0,142502728.0,R,Comedy,Leonardo DiCaprio,Quentin Tarantino,2019-07-26,161,2019,3
+Captain Marvel,68.0,69.0,426829839.0,PG-13,Action,Brie Larson,Anna Boden,2019-03-08,123,2019,1
+Spider-Man: Far from Home,74.0,94.0,390532085.0,PG-13,Action,Tom Holland,Jon Watts,2019-07-02,129,2019,3
+Star Wars: The Rise Of Skywalker,65.0,81.0,515202542.0,PG-13,Action,Daisy Ridley,J.J. Abrams,2019-12-20,141,2019,4
+Tenet,73.0,69.0,58504105.0,PG-13,Action,John David Washington,Christopher Nolan,2020-09-03,150,2020,3
+Wonder Woman 1984,54.0,72.0,46801036.0,PG-13,Action,Gal Gadot,Patty Jenkins,2020-12-25,151,2020,4
+Birds of Prey,60.0,71.0,84172791.0,R,Action,Margot Robbie,Cathy Yan,2020-02-07,109,2020,1
+A Quiet Place Part II,72.0,68.0,160072261.0,PG-13,Drama,Emily Blunt,John Krasinski,2021-05-28,97,2021,2
+Extraction,67.0,73.0,,R,Action,Chris Hemsworth,Sam Hargrave,2020-04-24,116,2020,2
+The Trial of the Chicago 7,77.0,70.0,,R,Drama,Eddie Redmayne,Aaron Sorkin,2020-10-16,129,2020,4
+Enola Holmes,66.0,93.0,,PG-13,Action,Millie Bobby Brown,Harry Bradbeer,2020-09-23,123,2020,3
+Dune,80.0,74.0,108327830.0,PG-13,Action,Timothée Chalamet,Denis Villeneuve,2021-10-22,155,2021,4
+Don't Look Up,72.0,68.0,,R,Comedy,Leonardo DiCaprio,Adam McKay,2021-12-24,138,2021,4
+Zack Snyder's Justice League,80.0,71.0,,R,Action,Henry Cavill,Zack Snyder,2021-03-18,242,2021,1
+No Time to Die,73.0,67.0,160891007.0,PG-13,Action,Daniel Craig,Cary Joji Fukunaga,2021-10-08,163,2021,4
+Shang-Chi and the Legend of the Ten Rings,74.0,62.0,224543292.0,PG-13,Action,Simu Liu,Destin Daniel Cretton,2021-09-03,132,2021,3
+Black Widow,67.0,72.0,183651655.0,PG-13,Action,Scarlett Johansson,Cate Shortland,2021-07-09,134,2021,3
+Free Guy,71.0,63.0,121626598.0,PG-13,Action,Ryan Reynolds,Shawn Levy,2021-08-13,115,2021,3
+The Suicide Squad,72.0,64.0,55817425.0,R,Action,Margot Robbie,James Gunn,2021-08-05,132,2021,3
+Eternals,63.0,75.0,164870234.0,PG-13,Action,Gemma Chan,Chloé Zhao,2021-11-05,156,2021,4
+Looper,82.0,93.0,66300000.0,R ,Sci-fi,                    Bruce Willis,Rian Johnson,2012-09-28,119,2012,3
+Moonrise Kingdom,86.0,93.0,45500000.0,PG-13,Comedy,                    Bruce Willis,Wes Anderson,2012-06-29,94,2012,2
+The Cabin in the Woods,74.0,92.0,42000000.0,R ,Horror,                    Kristen Connolly,Drew Goddard,2012-04-13,95,2012,2
+Jiro Dreams of Sushi,91.0,99.0,2600000.0,PG ,Documentary,                    Jiro Ono,David Gelb,2012-03-09,81,2012,1
+Amour,82.0,92.0,3700000.0,PG-13,Drama,                    Jean-Louis Trintignant,Michael Haneke,2012-12-19,127,2012,4
+Before Midnight,82.0,98.0,8100000.0,R ,Romance,                    Ethan Hawke,Richard Linklater,2013-05-24,109,2013,2
+Her,82.0,94.0,25600000.0,R ,Comedy,                    Joaquin Phoenix,Spike Jonze,2014-01-10,119,2014,1
+Short Term 12,92.0,98.0,1000000.0,R ,Drama,                    Brie Larson,Destin Daniel Cretton,2013-08-23,96,2013,3
+Captain Phillips,89.0,93.0,107100000.0,PG-13,Drama,                    Tom Hanks,Paul Greengrass,2013-10-11,133,2013,4
+Mud,80.0,97.0,21600000.0,PG-13,Drama,                    Matthew McConaughey,Jeff Nichols,2013-05-10,130,2013,2
+American Hustle,74.0,92.0,150100000.0,R ,Crime,                    Christian Bale,David O. Russell,2013-12-20,138,2013,4
+20 Feet From Stardom,82.0,99.0,4900000.0,PG-13,Documentary,                    David Bowie,Morgan Neville,2013-06-14,90,2013,2
+Inside Llewyn Davis,74.0,92.0,13200000.0,R ,Drama,                    Oscar Isaac,Joel Coen,2013-12-20,104,2013,4
+Selma,86.0,99.0,52100000.0,PG-13,History,                    David Oyelowo,Ava DuVernay,2015-01-09,128,2015,1
+Boyhood,80.0,97.0,25400000.0,R ,Drama,                    Ellar Coltrane,Richard Linklater,2014-07-18,165,2014,3
+The Babadook,72.0,98.0,933100000.0,PG ,Horror,                    Essie Davis,Jennifer Kent,2014-11-28,93,2014,4
+The LEGO Movie,87.0,96.0,257800000.0,R ,Kids & family,                    Chris Pratt,Phil Lord,2014-02-07,95,2014,1
+Nightcrawler,86.0,95.0,32400000.0,R ,Mystery,                    Jake Gyllenhaal,Dan Gilroy,2014-10-31,117,2014,4
+Life Itself,88.0,98.0,809700000.0,PG-13,Documentary,                    Roger Ebert,Steve James,2014-07-04,120,2014,3
+Birdman,78.0,91.0,42300000.0,R ,Comedy,                    Michael Keaton,Alejandro González Iñárritu,2015-01-16,119,2015,1
+Brooklyn,87.0,97.0,38300000.0,PG-13,Romance,                    Saoirse Ronan,John Crowley,2015-11-25,112,2015,4
+Creed,89.0,95.0,109700000.0,PG-13,Drama,                    Michael B. Jordan,Ryan Coogler,2015-11-25,133,2015,4
+Mission: Impossible Rogue Nation,87.0,94.0,,R ,Action,                    Tom Cruise,Christopher McQuarrie,2015-07-31,131,2015,3
+It Follows,66.0,96.0,14700000.0,R ,Horror,                    Maika Monroe,David Robert Mitchell,2015-03-27,101,2015,1
+Carol,74.0,94.0,12700000.0,PG-13,Romance,                    Cate Blanchett,Todd Haynes,2016-01-08,118,2016,1
+Moonlight,79.0,98.0,27900000.0,PG-13,Drama,                    Mahershala Ali,Barry Jenkins,2016-11-18,111,2016,4
+Manchester by the Sea,78.0,96.0,47700000.0,PG-13,Drama,                    Casey Affleck,Kenneth Lonergan,2016-12-16,137,2016,4
+Hell or High Water,88.0,97.0,27000000.0,PG ,Crime,                    Jeff Bridges,David Mackenzie,2016-08-19,97,2016,3
+Finding Dory,84.0,94.0,486200000.0,PG-13,Kids & family,                    Ellen DeGeneres,Andrew Stanton,2016-06-17,103,2016,2
+The Jungle Book,86.0,94.0,364000000.0,R ,Kids & family,                    Neel Sethi,Jon Favreau,2016-04-15,105,2016,2
+Paterson,72.0,96.0,2100000.0,R ,Comedy,                    Adam Driver,Jim Jarmusch,2016-12-28,118,2016,4
+Lady Bird,79.0,99.0,48900000.0,R ,Comedy,                    Saoirse Ronan,Greta Gerwig,2017-11-22,94,2017,4
+Coco,94.0,97.0,210500000.0,PG-13,Kids & family,                    Anthony Gonzalez,Lee Unkrich,2017-11-22,109,2017,4
+Star Wars: The Last Jedi,42.0,91.0,620200000.0,R ,Sci-fi,                    Mark Hamill,Rian Johnson,2017-12-15,152,2017,4
+The Shape of Water,72.0,92.0,63300000.0,PG-13,Fantasy,                    Sally Hawkins,Guillermo del Toro,2017-12-22,123,2017,4
+The Big Sick,88.0,98.0,42900000.0,PG-13,Romance,                    Kumail Nanjiani,Michael Showalter,2017-07-14,120,2017,3
+Mission: Impossible - Fallout,88.0,97.0,220100000.0,R ,Action,                    Tom Cruise,Christopher McQuarrie,2018-07-27,147,2018,3
+BlacKkKlansman,83.0,96.0,48600000.0,PG ,Comedy,                    John David Washington,Spike Lee,2018-08-10,134,2018,3
+Roma,72.0,96.0,,R ,Drama,                    Yalitza Aparicio,Alfonso Cuarón,2018-11-21,135,2018,4
+A Star Is Born,79.0,90.0,215300000.0,PG-13,Romance,                    Bradley Cooper,Bradley Cooper,2018-10-05,135,2018,4
+Eighth Grade,82.0,99.0,13500000.0,R ,Comedy,                    Elsie Fisher,Bo Burnham,2018-08-03,93,2018,3
+Can You Ever Forgive Me?,81.0,98.0,8800000.0,R ,Biography,                    Melissa McCarthy,Marielle Heller,2018-10-19,106,2018,4
+The Favourite,70.0,93.0,34200000.0,R ,Comedy,                    Olivia Colman,Yorgos Lanthimos,2018-12-14,120,2018,4
+Parasite (Gisaengchung),90.0,99.0,53400000.0,PG-13,Comedy,                    Song Kang-ho,Bong Joon Ho,2019-11-01,132,2019,4
+Us,60.0,93.0,175000000.0,G,Horror,                    Lupita Nyong'o,Jordan Peele,2019-03-22,116,2019,1
+Toy Story 4,94.0,97.0,434000000.0,R ,Kids & family,                    Tom Hanks,Josh Cooley,2019-06-21,100,2019,2
+Little Women,92.0,95.0,108100000.0,R ,Drama,                    Saoirse Ronan,Greta Gerwig,2019-12-25,135,2019,4
+Booksmart,77.0,96.0,22700000.0,PG ,Comedy,                    Kaitlyn Dever,Olivia Wilde,2019-05-24,102,2019,2
+The Farewell,87.0,97.0,17700000.0,PG ,Comedy,                    Awkwafina,Lulu Wang,2019-08-02,100,2019,3
+A Beautiful Day in the Neighborhood,92.0,95.0,61700000.0,R ,Biography,                    Tom Hanks,Marielle Heller,2019-11-22,107,2019,4
+One Night in Miami,78.0,98.0,,R ,Drama,                    Kingsley Ben-Adir,Regina King,2020-12-25,110,2020,4
+Portrait of a Lady on Fire (Portrait de la jeune fille en feu),92.0,97.0,3800000.0,PG-13,Romance,                    Noémie Merlant,Céline Sciamma,2019-12-06,121,2019,4
+Minari,86.0,98.0,700000000.0,R ,Drama,                    Steven Yeun,Lee Isaac Chung,2021-02-12,115,2021,1
+Ma Rainey's Black Bottom,72.0,97.0,,R ,History,                    Viola Davis,George C. Wolfe,2020-11-25,94,2020,4
+Never Rarely Sometimes Always,54.0,99.0,16300000.0,R ,Drama,                    Ryan Eggold,Eliza Hittman,2020-03-13,101,2020,1
+Sound of Metal,90.0,97.0,,R ,Drama,                    Riz Ahmed,Darius Marder,2020-11-20,120,2020,4
+Nomadland,82.0,93.0,,R ,Drama,                    Frances McDormand,Chloé Zhao,2021-02-19,108,2021,1
+Judas and the Black Messiah,95.0,97.0,5000000.0,PG-13,History,                    Daniel Kaluuya,Shaka King,2021-02-12,126,2021,1
+The Father,92.0,98.0,2100000.0,PG-13,Drama,                    Anthony Hopkins,Florian Zeller,2021-02-26,97,2021,1
+In the Heights,94.0,94.0,29900000.0,PG-13,Musical,                    Anthony Ramos,Jon M. Chu,2021-06-10,143,2021,2
+"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",98.0,99.0,2300000.0,R,Documentary,                    Lin-Manuel Miranda,"Ahmir ""Questlove"" Thompson",2021-07-02,117,2021,3
+Pig,84.0,97.0,3100000.0,R ,Drama,                    Nicolas Cage,Michael Sarnoski,2021-07-16,92,2021,3
+The Power of the Dog,76.0,94.0,,PG-13,Western,                    Benedict Cumberbatch,Jane Campion,2021-11-17,128,2021,4
+CODA,91.0,94.0,,PG-13,Drama,                    Emilia Jones,Sian Heder,2021-08-13,111,2021,3
+West Side Story,93.0,91.0,38500000.0,,Musical,                    Ansel Elgort,Steven Spielberg,2021-12-10,156,2021,4
